@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head> 
+    <title> MMP100 demo site </title>
+    <body>
+      <h1 id="top"> WELCOME TO THE INTERNET</h1>
+          <img src="-" alt="clouds"/>
+          <p class = "conversation"> and its niceuyasdhidasud</p>
+  <a href="https://verette.github.io/yes.html">Option 1</a>
+ <a href="-">Option 2</a>
+    </body>
+  </head>
+</html>
